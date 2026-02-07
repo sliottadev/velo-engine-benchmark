@@ -1,5 +1,13 @@
 # ⚡ Project Velo: The Toaster vs. The Tank
 
+## 📺 Visual Proof: The Toaster in Action
+
+Check out the real-time execution dashboard. Watch how the "Enterprise Tank" struggles while **Project Velo** finishes before the UI can even blink.
+
+![Benchmark Demo](assets/video_test_f.mp4)
+
+> **Note:** If the video player doesn't load automatically in your browser, you can find the raw file in the `/assets` folder.
+
 This repository contains the official benchmark comparing **Project Velo** (Native C++ Engine) against the industry standard, **Camunda DMN Engine (JVM)**.
 
 The goal of this test is to prove that 100% logic parity can be achieved while eliminating "software mass," enabling ultra-high performance execution even on low-end hardware.
