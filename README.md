@@ -4,9 +4,13 @@
 
 Check out the real-time execution dashboard. Watch how the "Enterprise Tank" struggles while **Project Velo** finishes before the UI can even blink.
 
-![Benchmark Demo](assets/video_test_f.mp4)
+<div align="center">
+  <video src="assets/video_test_clean.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-> **Note:** If the video player doesn't load automatically in your browser, you can find the raw file in the `/assets` folder.
+> **Note:** If the video doesn't play, you can find the raw file in the [assets folder](./assets/video_test_clean.mp4).
 
 This repository contains the official benchmark comparing **Project Velo** (Native C++ Engine) against the industry standard, **Camunda DMN Engine (JVM)**.
 
